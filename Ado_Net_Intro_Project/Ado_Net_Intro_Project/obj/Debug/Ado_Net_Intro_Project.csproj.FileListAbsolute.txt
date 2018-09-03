@@ -1,0 +1,6 @@
+c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\bin\Debug\Ado_Net_Intro_Project.exe.config
+c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\bin\Debug\Ado_Net_Intro_Project.exe
+c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\bin\Debug\Ado_Net_Intro_Project.pdb
+c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.csprojResolveAssemblyReference.cache
+c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.exe
+c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.pdb
