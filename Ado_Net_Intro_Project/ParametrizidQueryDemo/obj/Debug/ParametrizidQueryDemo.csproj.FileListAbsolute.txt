@@ -1,0 +1,9 @@
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\bin\Debug\ParametrizidQueryDemo.exe.config
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\bin\Debug\ParametrizidQueryDemo.exe
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\bin\Debug\ParametrizidQueryDemo.pdb
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\obj\Debug\ParametrizidQueryDemo.csprojResolveAssemblyReference.cache
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\obj\Debug\ParametrizidQueryDemo.Form1.resources
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\obj\Debug\ParametrizidQueryDemo.Properties.Resources.resources
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\obj\Debug\ParametrizidQueryDemo.csproj.GenerateResource.Cache
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\obj\Debug\ParametrizidQueryDemo.exe
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\ParametrizidQueryDemo\obj\Debug\ParametrizidQueryDemo.pdb

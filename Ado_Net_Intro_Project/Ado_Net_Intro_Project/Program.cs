@@ -3,13 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.SqlClient;    
+using System.Data.SqlClient;
+using System.Configuration;
 
 namespace Ado_Net_Intro_Project
 {
     class Program
     {
-        static string connectionString = @"Data Source = COMP500\SQLEXPRESS; Initial Catalog=Library;Integrated Security=true;";
+        static string connectionString = ConfigurationManager.ConnectionStrings["MyConnString"].ConnectionString;
         static SqlConnection sqlConnection = null;
         static SqlCommand sqlCommand = null;
         static SqlDataReader reader = null;
@@ -23,26 +24,30 @@ namespace Ado_Net_Intro_Project
         private static void SelectFromAuthors()
         {
             sqlConnection = new SqlConnection(connectionString);
-            sqlCommand = new SqlCommand("select * from authors;", sqlConnection);
+            sqlCommand = new SqlCommand("select * from books;select * from authors", sqlConnection);
 
             int line = 0;
             try
             {
                 sqlConnection.Open();
                 reader = sqlCommand.ExecuteReader();
-                while (reader.Read())
-                {   
-                    if(line == 0)
+                do
+                {
+                    while (reader.Read())
                     {
-                        for (int i = 0; i < reader.FieldCount; i++)
+                        if (line == 0)
                         {
-                            Console.Write(reader.GetName(i) + "\t");
+                            for (int i = 0; i < reader.FieldCount; i++)
+                            {
+                                Console.Write(reader.GetName(i) + "\t");
+                            }
+                            Console.WriteLine();
+                            line++;
                         }
-                        Console.WriteLine();
-                        line++;
+                        Console.WriteLine($"{reader[0]} {reader[0]} {reader.GetString(2)}");
                     }
-                    Console.WriteLine($"{reader[0]} {reader["FirstName"]} {reader.GetString(2)}");
-                }
+                    line = 0;
+                } while (reader.NextResult());
 
             }
             catch (Exception ex)

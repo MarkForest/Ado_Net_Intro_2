@@ -4,3 +4,9 @@ c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado
 c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.csprojResolveAssemblyReference.cache
 c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.exe
 c:\users\teather\documents\visual studio 2017\Projects\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.pdb
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\Ado_Net_Intro_Project\bin\Debug\Ado_Net_Intro_Project.exe.config
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\Ado_Net_Intro_Project\bin\Debug\Ado_Net_Intro_Project.exe
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\Ado_Net_Intro_Project\bin\Debug\Ado_Net_Intro_Project.pdb
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.csprojResolveAssemblyReference.cache
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.exe
+C:\Users\Teather\Desktop\Git\Ado_Net_Intro_2\Ado_Net_Intro_Project\Ado_Net_Intro_Project\obj\Debug\Ado_Net_Intro_Project.pdb
